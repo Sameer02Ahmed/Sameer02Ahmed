@@ -62,17 +62,11 @@
 
 <hr style="border: 1px solid #4CAF50;">
 
-<p style="font-size: 18px; font-style: italic; color: #e74c3c; text-align: center; position: relative; animation: fly 5s linear infinite; display: inline-block;">
+<p style="font-size: 18px; font-style: italic; color: #e74c3c; text-align: center; position: relative; animation: fly 5s linear infinite; display: inline-block; @keyframes fly {
+     100% { transform: translateX(100vw); }
+}">
 ✨ "Turning Data into Insights & Ideas into Reality!" ✨
 </p>
-
-<!-- Inline Keyframes Animation -->
-<style>
-@keyframes fly {
-    0% { transform: translateX(-100%); }
-    100% { transform: translateX(100vw); }
-}
-</style>
 
 </body>
 </html>
