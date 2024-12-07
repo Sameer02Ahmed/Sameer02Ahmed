@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Sameer02Ahmed
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<marquee>👨‍💻 Welcome to My GitHub Profile! 🚀</marquee>
+🌟 About Me
+I am a Data Analyst and Front-End Developer passionate about transforming data into actionable insights and building dynamic web experiences. I’m constantly learning and exploring new technologies to create impactful projects.
 
-<!---
-Sameer02Ahmed/Sameer02Ahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Skills & Tools
+📊 Data Analysis:
+Languages & Libraries: Python (Pandas, NumPy, Matplotlib, Seaborn)
+Data Visualization: Power BI, Excel
+🌐 Front-End Development:
+Languages: HTML, CSS, JavaScript
+Frameworks & Libraries: Bootstrap
+🚀 Current Focus
+Advancing my data analytics & visualization expertise
+Developing responsive web applications
+📈 Projects
+Data Dashboards: Power BI & Excel-based interactive reports
+Web Development: Responsive websites using HTML, CSS, and Bootstrap
+📫 Let's Connect!
+🌐 Portfolio: Your Website
+💼 LinkedIn: Your LinkedIn Profile
+📧 Email: your.email@example.com
+✨ "Turning Data into Insights & Ideas into Reality!"
