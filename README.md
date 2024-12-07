@@ -4,116 +4,75 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GitHub Profile README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            padding: 20px;
-            line-height: 1.6;
-            color: #333;
-        }
-        
-        h1, h2, h3 {
-            color: #3498db;
-            text-align: center;
-        }
-
-        hr {
-            border: 1px solid #4CAF50;
-        }
-
-        ul {
-            list-style: none;
-            padding: 0;
-        }
-
-        li {
-            margin: 5px 0;
-        }
-
-        a {
-            color: #e74c3c;
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-
-        .fly-text {
-            font-size: 18px;
-            font-style: italic;
-            text-align: center;
-            color: #e74c3c;
-            animation: fly 5s linear infinite;
-            position: relative;
-            display: inline-block;
-        }
-
-        @keyframes fly {
-            0% { transform: translateX(-100%); }
-            100% { transform: translateX(100vw); }
-        }
-    </style>
 </head>
-<body>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f9; padding: 20px; line-height: 1.6; color: #333;">
 
-<h1>
-  <marquee>👨‍💻 Welcome to My GitHub Profile! 🚀</marquee>
+<h1 style="text-align: center; color: #4CAF50;">
+    <marquee>👨‍💻 Welcome to My GitHub Profile! 🚀</marquee>
 </h1>
 
-<hr>
+<hr style="border: 1px solid #4CAF50;">
 
-<h2>🌟 About Me</h2>
-<p>
-  I am a <b>Data Analyst</b> and <b>Front-End Developer</b> passionate about transforming data into actionable insights 
-  and building dynamic web experiences. I’m constantly learning and exploring new technologies to create impactful projects.
+<h2 style="color: #3498db;">🌟 About Me</h2>
+<p style="font-size: 16px; line-height: 1.6;">
+    I am a <b>Data Analyst</b> and <b>Front-End Developer</b> passionate about transforming data into actionable insights 
+    and building dynamic web experiences. I’m constantly learning and exploring new technologies to create impactful projects.
 </p>
 
-<hr>
+<hr style="border: 1px solid #4CAF50;">
 
-<h2>💻 Skills & Tools</h2>
+<h2 style="color: #3498db;">💻 Skills & Tools</h2>
 
-<h3>📊 Data Analysis:</h3>
-<ul>
-  <li><b>Languages & Libraries:</b> Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
-  <li><b>Data Visualization:</b> Power BI, Excel</li>
+<h3 style="color: #e67e22;">📊 Data Analysis:</h3>
+<ul style="font-size: 16px;">
+    <li><b>Languages & Libraries:</b> Python (Pandas, NumPy, Matplotlib, Seaborn)</li>
+    <li><b>Data Visualization:</b> Power BI, Excel</li>
 </ul>
 
-<h3>🌐 Front-End Development:</h3>
-<ul>
-  <li><b>Languages:</b> HTML, CSS, JavaScript</li>
-  <li><b>Frameworks & Libraries:</b> Bootstrap</li>
+<h3 style="color: #e67e22;">🌐 Front-End Development:</h3>
+<ul style="font-size: 16px;">
+    <li><b>Languages:</b> HTML, CSS, JavaScript</li>
+    <li><b>Frameworks & Libraries:</b> Bootstrap</li>
 </ul>
 
-<hr>
+<hr style="border: 1px solid #4CAF50;">
 
-<h2>🚀 Current Focus</h2>
-<ul>
-  <li>Advancing my data analytics & visualization expertise</li>
-  <li>Developing responsive web applications</li>
+<h2 style="color: #3498db;">🚀 Current Focus</h2>
+<ul style="font-size: 16px;">
+    <li>Advancing my data analytics & visualization expertise</li>
+    <li>Developing responsive web applications</li>
 </ul>
 
-<hr>
+<hr style="border: 1px solid #4CAF50;">
 
-<h2>📈 Projects</h2>
-<ul>
-  <li><b>Data Dashboards:</b> Power BI & Excel-based interactive reports</li>
-  <li><b>Web Development:</b> Responsive websites using HTML, CSS, and Bootstrap</li>
+<h2 style="color: #3498db;">📈 Projects</h2>
+<ul style="font-size: 16px;">
+    <li><b>Data Dashboards:</b> Power BI & Excel-based interactive reports</li>
+    <li><b>Web Development:</b> Responsive websites using HTML, CSS, and Bootstrap</li>
 </ul>
 
-<hr>
+<hr style="border: 1px solid #4CAF50;">
 
-<h2>📫 Let's Connect!</h2>
-<ul>
-  <li><b>🌐 Portfolio:</b> <a href="#" target="_blank">Your Website</a></li>
-  <li><b>💼 LinkedIn:</b> <a href="#" target="_blank">Your LinkedIn Profile</a></li>
-  <li><b>📧 Email:</b> <a href="mailto:your.email@example.com">your.email@example.com</a></li>
+<h2 style="color: #3498db;">📫 Let's Connect!</h2>
+<ul style="font-size: 16px;">
+    <li><b>🌐 Portfolio:</b> <a href="#" style="color: #e74c3c; text-decoration: none;">Your Website</a></li>
+    <li><b>💼 LinkedIn:</b> <a href="#" style="color: #e74c3c; text-decoration: none;">Your LinkedIn Profile</a></li>
+    <li><b>📧 Email:</b> <a href="mailto:your.email@example.com" style="color: #e74c3c; text-decoration: none;">your.email@example.com</a></li>
 </ul>
 
-<hr>
+<hr style="border: 1px solid #4CAF50;">
 
-<p class="fly-text">✨ "Turning Data into Insights & Ideas into Reality!" ✨</p>
+<p style="font-size: 18px; font-style: italic; color: #e74c3c; text-align: center; position: relative; animation: fly 5s linear infinite; display: inline-block;">
+✨ "Turning Data into Insights & Ideas into Reality!" ✨
+</p>
+
+<!-- Inline Keyframes Animation -->
+<style>
+@keyframes fly {
+    0% { transform: translateX(-100%); }
+    100% { transform: translateX(100vw); }
+}
+</style>
 
 </body>
 </html>
