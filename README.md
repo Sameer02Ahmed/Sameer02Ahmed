@@ -57,7 +57,7 @@ I am currently learning Full Stack Development to enhance my technical expertise
 
 <h2 style="color: #3498db;">📫 Let's Connect!</h2>
 <ul style="font-size: 16px;">
-  <li><b>🌐 Portfolio:</b> <a href="#" style="color: #e74c3c;">Your Website</a></li>
+  <li><b>🌐 Portfolio:</b> <br> <a href="https://github.com/Sameer02Ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="github" height="30" width="40" /></a></li>
   <li><b>💼 LinkedIn:</b> <p align="left">
 <a href="https://linkedin.com/in/sameerahmedshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerahmedshah" height="30" width="40" /></a>
 </p></li>
@@ -66,6 +66,5 @@ I am currently learning Full Stack Development to enhance my technical expertise
 
 <hr style="border: 1px solid #4CAF50;">
 
-<p style="font-size: 18px; text-align: center; font-style: italic;">
-  ✨ "Turning Data into Insights & Ideas into Reality!" ✨
-</p>
+<h4 align="center">✨ "Turning Data into Insights & Ideas into Reality!" ✨</h4>
+  
