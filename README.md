@@ -4,12 +4,15 @@
 <hr style="border: 1px solid #4CAF50;">
 
 <h3 align="center">A passionate Frontend Developer / Data Analyst</h3>
+<h4 align="center">"Crafting Engaging Web Experiences & Data-Driven Insights with Passion and Precision."</h4>
 <hr style="border: 1px solid #4CAF50;">
 
 <h2 style="color: #3498db;">🌟 About Me</h2>
 <p style="font-size: 16px; line-height: 1.6;">
   I am a <b>Data Analyst</b> and <b>Front-End Developer</b> passionate about transforming data into actionable insights 
   and building dynamic web experiences. I’m constantly learning and exploring new technologies to create impactful projects.
+  <br>
+I am currently learning Full Stack Development to enhance my technical expertise and build complete web solutions. My goal is to contribute to innovative projects that blend data analysis and front-end web development into seamless user experiences.
 </p>
 
 <hr style="border: 1px solid #4CAF50;">
