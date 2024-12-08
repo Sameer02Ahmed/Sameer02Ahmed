@@ -1,6 +1,5 @@
-<h1 style="text-align: center; color: #4CAF50;">
-  <marquee>👨‍💻 Hi 👋, I'm Sameer 🚀</marquee>
-</h1>
+<h1 align="center">👨‍💻 Hi 👋, I'm Sameer 🚀</h1>
+
 <hr style="border: 1px solid #4CAF50;">
 
 <h3 align="center">A passionate Frontend Developer / Data Analyst</h3>
